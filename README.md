@@ -4,31 +4,16 @@ Este repositório contém uma aplicação web que implementa diversos algoritmos
 
 ## Estrutura do Projeto
 
-O projeto é composto por várias páginas HTML, arquivos JavaScript e arquivos CSS. A estrutura básica do projeto é a seguinte:
-
-
-/algoritmos
-├── index.html            # Página principal para escolher a linguagem
-├── pageJava.html        # Página com algoritmos em Java
-├── pageJs.html          # Página com algoritmos em JavaScript
-├── css
-│   ├── style.css        # Estilos para a página principal
-│   └── stylePages.css   # Estilos para as páginas de algoritmos
-└── js
-    ├── algoritmosJava.js # Algoritmos em Java
-    └── algoritmosJs.js   # Algoritmos em JavaScript
-```
-
 ## Como Utilizar
 
 1. **Clone o repositório:**
 
    Para começar a usar a aplicação, clone este repositório em sua máquina local:
 
-   ```bash
+   
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-   ```
+   
 
 2. **Abra o arquivo `index.html`:**
 
