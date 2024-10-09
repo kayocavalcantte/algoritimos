@@ -11,7 +11,7 @@ Este repositório contém uma aplicação web que implementa diversos algoritmos
    Para começar a usar a aplicação, clone este repositório em sua máquina local:
 
    
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/kayocavalcantte/algoritimos
    cd nome-do-repositorio
    
 
